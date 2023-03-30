@@ -1,0 +1,35 @@
+*{
+    margin: 5px;
+    padding: 5px;
+}
+.main_note{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    padding: 5px;
+}
+.createnote{
+    box-sizing: border-box;
+    border-color: black;
+    box-shadow: 0 0 10px rgba(117, 112, 7, 0.5);
+    width: 400px;
+}
+input{
+    border-color: transparent;
+    width: 350px;
+    font-size: large;
+    font-weight: 500;
+    margin-top: 10px;
+    align-items: flex-start;
+}
+textarea{
+    border-color: transparent;
+    height: 150px;
+    width: 250px;
+}
+.plus_sign{
+    background-color: yellow;
+    border-radius: 30%;
+    margin-left: 10px;
+
+}

@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main_note{
+    margin: 5px;
+    padding: 5px;
+}
+.note{
+    box-sizing: border-box;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    margin: 15px;
+    padding: 5px;
+    width: auto;
+}
+.btn{
+    background-color: transparent;
+    border-color: transparent;
+    float: right;
+    margin-right: 2px;
+}
+
+.deleteIcon:hover{
+    color: red;
+}
